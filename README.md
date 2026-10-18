@@ -1,10 +1,10 @@
-Hi, I'm Saloni 👋
+**Hi, I'm Saloni 👋**
 
-Business Analyst | Data Analytics | IT Operations
+**Business Analyst | Data Analytics | IT Operations**
 
 IT professional with 4 years of experience in Incident Management, stakeholder coordination, process analysis, root cause analysis, and operational reporting. Currently transitioning into Business Analysis and Data Analytics, with a focus on using data to understand business problems and support informed decision-making.
 
-About Me
+**About Me**
 
 🎓 BE in Information Technology
 
@@ -16,7 +16,7 @@ About Me
 
 📈 Exploring data analysis, data visualization, and machine learning fundamentals
 
-Skills
+**Skills**
 
 Business Analysis
 
@@ -52,15 +52,15 @@ Git and GitHub
 
 Scikit-learn and FastAPI — learning through projects
 
-Projects
+**Projects**
 
-1. Bengaluru House Data Analysis
+**1. Bengaluru House Data Analysis**
 
 Analyzing real estate listings to explore data cleaning, missing values, property pricing, and location-wise market trends.
 
 Tools: Python, Pandas, NumPy
 
-2. Python Programming Practice
+**2. Python Programming Practice**
 
 Building a collection of beginner Python programs to strengthen programming logic, loops, strings, and functions.
 
@@ -78,7 +78,7 @@ Data visualization and business reporting
 
 Machine learning fundamentals
 
-Connect With Me
+**Connect With Me**
 
 GitHub: https://github.com/salonisarwade07-cmyk
 
