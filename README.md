@@ -4,55 +4,35 @@
 
 IT professional with 4 years of experience in Incident Management, stakeholder coordination, process analysis, root cause analysis, and operational reporting. Currently transitioning into Business Analysis and Data Analytics, with a focus on using data to understand business problems and support informed decision-making.
 
-**About Me**
+👩‍💻**About Me**
 
 🎓 BE in Information Technology
-
 💼 4 years of experience in IT Incident Management
-
 📊 Interested in business analysis, data analytics, and process improvement
-
 🐍 Learning Python, Pandas, NumPy, and Statistics
-
 📈 Exploring data analysis, data visualization, and machine learning fundamentals
 
-**Skills**
+🛠️**Skills**
 
 Business Analysis
-
-Stakeholder Coordination
-
-Process Analysis
-
-Root Cause Analysis
-
-Requirements Understanding
-
+Stakeholder Coordination 
+Process Analysis 
+Root Cause Analysis 
+Requirements Understanding 
 Operational Reporting
-
 Data Analytics
-
 Python
-
 Pandas and NumPy
-
 Excel
-
 SQL — developing skills
-
-Statistics and Exploratory Data Analysis
-
+Statistics and Exploratory Data Analysi
 Tools & Technologies
-
 ServiceNow
-
 Power BI — developing skills
-
 Git and GitHub
-
 Scikit-learn and FastAPI — learning through projects
 
-**Projects**
+🚀**Projects**
 
 **1. Bengaluru House Data Analysis**
 
@@ -78,7 +58,7 @@ Data visualization and business reporting
 
 Machine learning fundamentals
 
-**Connect With Me**
+🌐**Connect With Me**
 
 GitHub: https://github.com/salonisarwade07-cmyk
 
