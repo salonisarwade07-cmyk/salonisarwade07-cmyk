@@ -7,9 +7,13 @@ IT professional with 4 years of experience in Incident Management, stakeholder c
 👩‍💻**About Me**
 
 🎓 BE in Information Technology
+
 💼 4 years of experience in IT Incident Management
+
 📊 Interested in business analysis, data analytics, and process improvement
+
 🐍 Learning Python, Pandas, NumPy, and Statistics
+
 📈 Exploring data analysis, data visualization, and machine learning fundamentals
 
 🛠️**Skills**
